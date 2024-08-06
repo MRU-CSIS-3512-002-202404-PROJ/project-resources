@@ -25,3 +25,8 @@ If you've installed DBeaver **and** are using a locally installed VS Code instan
 4. Paste the contents of the script into the tab.
 5. Click the Execute SQL Script icon (orange scroll one).
     1. A dialog will pop up, warning you about large script execution. Just click the **Yes** button.
+
+
+## travel photos
+
+The `3512-2024-04-project-photos.zip` file contains 152 travel photos to be used in the Project. You will need to unzip the photo files and upload them to your Cloudinary media library, preferably into a well-named folder.
