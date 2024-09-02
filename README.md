@@ -4,7 +4,7 @@ Here you'll find a variety of resources you'll need to successfully complete you
 
 ## travel photos
 
-The `3512-2024-04-project-photos.zip` file ([downloadable here on Google Drive](https://drive.google.com/file/d/1bnzCRrZB_RlGyp3FiQNIZuSxNuvbt2GB/view?usp=sharing) - it's too big for GitHub!) contains 152 travel photos to be used in the Project. You will need to unzip the photo files and upload them to your Cloudinary media library, preferably into a well-named folder.
+The `3512-2024-04-project-photos.zip` file ([downloadable here on Google Drive](https://drive.google.com/file/d/1ds9Jsq8c0wMemvKC35Cwe3G0Rpr2pn42/view?usp=drive_link) - it's too big for GitHub!) contains 152 travel photos to be used in the Project. You will need to unzip the photo files and upload them to your Cloudinary media library, preferably into a well-named folder.
 
 ## travel db
 
