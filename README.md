@@ -2,6 +2,17 @@
 
 Here you'll find a variety of resources you'll need to successfully complete your project.
 
+## troubleshooting
+
+- If both ports (80 and 3306) aren't showing, open up a terminal and run these two commands in this order:
+    1. **docker compose down**
+    2. **docker compose up -d**
+
+- If things are acting wonky, push all work that you don't want to lose, then try the following things - in order from least drastic to most drastic - stopping when things aren't wonky anymore:
+    1. `Ctrl+Shift+P` > Reload Window
+    2. `Ctrl+Shift+P` > Rebuild Container > Rebuild button (**Not the `Full Rebuild`!**)
+    4. Delete the Codespace, then create a new one. (**Don't forget to push beforehand!**)
+
 ## travel photos
 
 The `3512-2024-04-project-photos.zip` file ([downloadable here on Google Drive](https://drive.google.com/file/d/1ds9Jsq8c0wMemvKC35Cwe3G0Rpr2pn42/view?usp=drive_link) - it's too big for GitHub!) contains 152 travel photos to be used in the Project. You will need to unzip the photo files and upload them to your Cloudinary media library, preferably into a well-named folder.
